@@ -1,0 +1,11 @@
+D:\учеба\Программирование\GetProcess\GetProcess\bin\Debug\GetProcess.exe.config
+D:\учеба\Программирование\GetProcess\GetProcess\bin\Debug\GetProcess.exe
+D:\учеба\Программирование\GetProcess\GetProcess\bin\Debug\GetProcess.pdb
+D:\учеба\Программирование\GetProcess\GetProcess\obj\Debug\GetProcess.csproj.AssemblyReference.cache
+D:\учеба\Программирование\GetProcess\GetProcess\obj\Debug\GetProcess.csproj.SuggestedBindingRedirects.cache
+D:\учеба\Программирование\GetProcess\GetProcess\obj\Debug\GetProcess.Form1.resources
+D:\учеба\Программирование\GetProcess\GetProcess\obj\Debug\GetProcess.Properties.Resources.resources
+D:\учеба\Программирование\GetProcess\GetProcess\obj\Debug\GetProcess.csproj.GenerateResource.cache
+D:\учеба\Программирование\GetProcess\GetProcess\obj\Debug\GetProcess.csproj.CoreCompileInputs.cache
+D:\учеба\Программирование\GetProcess\GetProcess\obj\Debug\GetProcess.exe
+D:\учеба\Программирование\GetProcess\GetProcess\obj\Debug\GetProcess.pdb
